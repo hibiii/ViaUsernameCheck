@@ -1,0 +1,5 @@
+name: "ViaUsernameCheck"
+version: "1.0"
+author: "hibi"
+main: "hibi.via_username_check.Main"
+min-version: "3.0.0"
